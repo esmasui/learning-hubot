@@ -25,7 +25,13 @@
 
   "dependencies": {
     "hubot":         ">= 2.6.0 < 3.0.0",
-    "hubot-scripts": ">= 2.5.0 < 3.0.0"
+    "hubot-scripts": ">= 2.5.0 < 3.0.0",
+
+    "hubot-idobata": "0.0.2",
+
+    "sandbox": "0.8.3",
+
+    "hubot-plusplus": "1.0.0"
   },
 
   "engines": {
